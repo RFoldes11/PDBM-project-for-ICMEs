@@ -12,3 +12,10 @@ Utilities for the creation of a CME database and the propagation of CMEs using t
 - Statistical Inversion of PDBM parameters
 
 ## Other utilities for plotting and analyzing the results
+
+
+## Python libraries needed
+Numpy
+Pandas
+Sunpy
+...
